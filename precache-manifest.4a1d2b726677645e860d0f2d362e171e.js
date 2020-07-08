@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c243211924cb07557e012899210e4760",
+    "revision": "79238e45721d2e4649e3b91de72f56ec",
     "url": "/index.html"
   },
   {
-    "revision": "29a4ce6eafb9a553d4ba",
+    "revision": "918be8bc54094844b6c7",
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8feee5ba9d04f199ca5d",
-    "url": "/static/css/main.aabba6bd.chunk.css"
+    "revision": "5e8fbd7023c419dcc32e",
+    "url": "/static/css/main.f2b50802.chunk.css"
   },
   {
-    "revision": "29a4ce6eafb9a553d4ba",
-    "url": "/static/js/2.86ad25ba.chunk.js"
+    "revision": "918be8bc54094844b6c7",
+    "url": "/static/js/2.c7bb8a8c.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/static/js/2.86ad25ba.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c7bb8a8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8feee5ba9d04f199ca5d",
-    "url": "/static/js/main.c41e6ec2.chunk.js"
+    "revision": "5e8fbd7023c419dcc32e",
+    "url": "/static/js/main.4278664c.chunk.js"
   },
   {
     "revision": "6563055f66d5bd928e4f",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/angelhack_logo.6f902e4e.png"
   },
   {
-    "revision": "e7599f148c3391f39dbce55861a03cf3",
-    "url": "/static/media/beside.e7599f14.png"
+    "revision": "de0978926c6cc725f7ddddd5d1c15ccb",
+    "url": "/static/media/beside.de097892.png"
   },
   {
     "revision": "1a42d0bf5db2499c927cced987500a6b",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dCamp.84ffd4f2.png"
   },
   {
-    "revision": "5322738a13babf2f27e07cd9a400cb75",
-    "url": "/static/media/dcamp.5322738a.png"
+    "revision": "93bbc49bad00ce05c305cb4f76ec83a8",
+    "url": "/static/media/dcamp.93bbc49b.png"
   },
   {
     "revision": "80a1c6b4771f17d0b436cef57b3ea2ba",
@@ -192,6 +192,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/박지민.086a9858.png"
   },
   {
+    "revision": "559b61e4145f8b5ad723f3ea7cf587d9",
+    "url": "/static/media/송요창.559b61e4.png"
+  },
+  {
+    "revision": "501dd32495c3c5014403a8984834f498",
+    "url": "/static/media/신대휘.501dd324.png"
+  },
+  {
+    "revision": "3a6a0500cf0c215d3be498dae72d5f08",
+    "url": "/static/media/신수철.3a6a0500.png"
+  },
+  {
+    "revision": "a9a84a23457d7255d6fa8ea1e0647747",
+    "url": "/static/media/예시카.a9a84a23.png"
+  },
+  {
+    "revision": "72a39b872245d4d4471beff9b886e60c",
+    "url": "/static/media/올리비아하.72a39b87.png"
+  },
+  {
     "revision": "d66952e2cfa306bde9d9fbd274f44274",
     "url": "/static/media/이동건.d66952e2.png"
   },
@@ -202,6 +222,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2117b15e392c1531a65774656ad66c3",
     "url": "/static/media/이희택.c2117b15.png"
+  },
+  {
+    "revision": "06cb3533e80fb10539f9c701a7ed8450",
+    "url": "/static/media/장미영.06cb3533.png"
   },
   {
     "revision": "4d3dd2f3de12042d1e1c21cb8a898b9b",
